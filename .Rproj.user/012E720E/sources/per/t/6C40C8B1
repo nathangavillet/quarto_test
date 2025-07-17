@@ -3,7 +3,7 @@
     "path": "C:/Users/gavillen/Desktop/newproject/quarto_test/quarto_test.qmd",
     "project_path": "quarto_test.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3047948902",
     "contents": "",
     "dirty": false,
     "created": 1752752190284.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "205:0",
+        "rmdVisualModeLocation": "202:114.4000015258789",
         "cursorPosition": "8,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1752752559,
+    "lastKnownWriteTime": 1752753112,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1752752559596,
+    "last_content_update": 1752753112704,
     "read_only": false,
     "read_only_alternatives": []
 }
